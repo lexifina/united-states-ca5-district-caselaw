@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the Southern District of Texas"
+docket: "482"
+decided: "1933-05-20"
+citations: ["3 F. Supp. 674"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re OSTERRITTER."]
+source_url: "https://static.case.law/f-supp/3/cases/0674-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5765839
+cites_cases: ["190 U. S. 294"]
+---
+
+# In re Osterritter
+
+## Majority (KENNERLY, District Judge.)
+
+KENNERLY, District Judge.
+This is a hearing on the petition-of the debtor, John Osterritter, to review an order of a referee in bankruptcy, holding that the time of payment of a debt owed by the debtor to G. S. Hollister and E. P. Board, and secured by a lien upon property exempt to the debtor under the laws of Texas [debtor’s homestead (see Rev. St. Tex. 1925, art. 3832 et seq.) ], may not be extended under the provisions of the Aet of Congress approved March 3, 1933 (chapter 8, sections 73, 74, 75 and 76, amending the Acts of Congress relating to Bankruptcy [11 USCA §§ 201, 202-204]).
+March 25, 1933, John Osterritter, a farmer^ residing in Hidalgo county, in this district and division, with permission of the judge of the court, filed his petition under such aet of March 3, 1933. April 7, 1933, reciting that no general orders had then been made by the Supreme Court, no conciliation commissioner appointed for Hidalgo county, and no machinery set up by this court for the administration of such aet, an order was entered sending the matter to the referee in bankruptcy, and designating such referee to aet as conciliation commissioner, in so far as the proceedings might come within section 75, U USCA § 203 (relating to farmers) of such act. April 29, 1933, the referee called, for May 12, 1933, and on that date held, the first meeting of creditors.
+May 3, 1933, and prior to the holding of the first meeting of the creditors, the referee set aside to the debtor, as exempt to him under the Constitution and other laws of Texas, 31.36 acres of land in Hidalgo county, occupied and claimed by the debtor as his homestead.
+May 13, 1933, the debtor offered to his Creditors an extension proposal under such aet, including therein a proposal for the extension of an indebtedness of $7,500, besides interest, to G. S. Hollister and E. P. Board, secured by a vendor’s lien upon the 31.36 acres of land, which indebtedness is evidenced by an agreed judgment rendered in favor of Hollister and Board by the district court of Hidalgo county, Tex., on October 6, 1932, and which provides for the issuance thereon of execution and order of sale on March 1, 1933, and on %vhieh execution and order of sale have issued, and the land thereunder advertised for sale on April 4,1933. Apparently, however, because of certain proceedings in the state court, the nature of which does not appear from this record, such sale was not made as advertised.
+Holding that such indebtedness, so secured by a lien upon exempt property, may not be extended under such aet of Congress, the referee has declined to proceed with debtor’s petition for extension. Complaining of such action, the debtor has duly brought the matter here for review.
+1. Before proceeding to a determination of the matter complained of by the debtor, it is necessary to determine whether these proceedings are under section 74 or section 75 of the aet. Under section 74 (11 USCA § 202), any person (but excluding corporations and including farmers) may, in the manner provided therein, secure an extension of his indebtedness. Section 75 (11 USCA § 203) is substantially similar to section 74, except that it applies exclusively to farmers, reduces the expenses of the proceeding, provides for machinery of administration in the county in which the farmer resides, and requires less formality than is required under section 74.
+But the Supreme Court, in General Order L (50), section 2 (11 USCA § 53), provides that no farmer’s petition shall be filed under section 75 until a conciliation commissioner is appointed in the county in which the farmer resides. Subdivision (a) of-section 75, and also section 1 of General Order L (11 USCA § 53), provides that no conciliation commissioner shall be appointed in any county, except upon the petition of 15 farmers, ete. No such petition has been filed by 15 farmers in Hidalgo county, and no conciliation commissioner has been appointed for that county.
+It follows that this proceeding may not proceed, or be sustained, under section 75, but only under section 74, of such aet.
+2. Examining now the provisions of section 74, it appears that in subdivision (h) thereof there is this language: “That the provisions of this section shall not affect the allowances and exemptions to debtors as are provided for bankrupts under title 11, chapter 3, section 24, of the United States Code, and such allowances and exemptions shall be set aside for the use of the debtor in the manner provided for bankrupts.”
+The effect of this language is to adopt section 24, title 11, USCA, with the construction given it by the courts. Such construction is that the jurisdiction of the bankrupt court over exempt property, under section 24, is limited to setting it aside to the bankrupt. Lockwood v. Exchange Bank, 190 U. S. 294, 23 S. Ct. 751, 47 L. Ed. 1061. It is therefore clear that the jurisdiction of the bankrupt court over exempt property, under section 74 of such aet, is in like manner limited, and that the referee did not err in setting aside the 31.36 acres of land to the debtor as exempt.
+After being so set aside, this court is without jurisdiction to in any way or manner control or adjudicate the matter of the lien or claim of the creditors Hollister and Board thereon. It is, in like manner, without jurisdiction to extend, under section 74, the time of payment of debtor’s indebtedness to Hollister and Board, secured by such lien, except in so far as such indebtedness may exceed tbe value, or selling price, of tbe land.
+Tbe referee should have proceeded (Lockwood v. Bank, supra) to hear and determine debtor’s extension proposal as to all creditors under section 74, but the extension as to Hollister and Board to apply only to the balance owing them after crediting the value, or sale price, of the land under the state court judgment, and without prejudice to their right, in so far as proceedings in this court are concerned, to have the land forthwith sold under such judgment.
+The order of the referee will therefore be affirmed in part, and reversed in part, and the cause remanded to him for proceedings in accordance with this opinion.
