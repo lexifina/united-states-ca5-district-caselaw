@@ -1,0 +1,32 @@
+---
+court: "United States District Court for the Southern District of Texas"
+docket: "CIV.A. G-98-221"
+decided: "1998-06-24"
+citations: ["8 F. Supp. 2d 938"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AMERICAN NATIONAL INSURANCE COMPANY v. TRAVELERS CASUALTY AND SURETY COMPANY."]
+source_url: "https://static.case.law/f-supp-2d/8/cases/0938-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11691641
+cites_cases: ["14 F.3d 726", "28 U.S.C. § 1447", "28 U.S.C. §§ 2201-2202", "308 F.2d 908", "355 U.S. 41", "891 F.2d 540", "938 F.2d 591", "976 F.2d 924", "Tex. Civ Prac. & Rem Code Ann. § 37.001"]
+---
+
+# American National Insurance v. Travelers Casualty & Surety Co.
+
+## Majority (KENT, District Judge.)
+
+ORDER GRANTING MOTION TO REMAND
+KENT, District Judge.
+Plaintiff initially, filed this action in the 56th Judicial District Court of Galveston County, Texas. Thereafter, Defendant timely removed the case to this Court. Now before the Court are Plaintiffs Motion to Remand, Defendant’s Motion to Dismiss, and Defendant’s Motion to Transfer Venue. For the reasons set forth below, Plaintiffs Motion to Remand is GRANTED. Consequently, Defendant’s Motions are not reached.
+In its Motion to Dismiss, Defendant argues for dismissal on two grounds. First it contends that Plaintiff fails to state a claim upon which relief can be granted and that this case should be dismissed pursuant to Rule 12(b)(6). In the alternative, Defendant maintains that this case should be dismissed under Rule 12(b)(1), because the Court lacks subject matter jurisdiction. Of course, Plaintiff disagrees, arguing that if this Court lacks subject matter jurisdiction the proper action is remand, rather than dismissal.
+This Court agrees with Plaintiff. Of course, regardless of how a case makes its way before the Court, if the plaintiff fails to state a claim upon which relief can be granted, the Federal Rules and legions of case authority clearly provide that the proper action is dismissal. Whether the dismissing court terms the dismissal as one for lack of subject matter jurisdiction under Rule 12(b)(1) (which in this Court’s opinion confuses the issue), see, e.g., In re East. & South. Dist. Asbestos Lit., 14 F.3d 726, 733 (2d Cir.1993), or calls the dismissal one for failure to state a claim under 12(b)(6), is utterly irrelevant, see, e.g., Garrett v. Commonwealth Mtg. Corp. of America, 938 F.2d 591, 594 (5th Cir.1991). However, the first question for the Court is always jurisdiction. If subject matter jurisdiction is lacking, the Court never reaches the merits of the controversy to determine whether a cognizable claim is stated; indeed, it lacks the power to do so. As in this case, if thé lawsuit has come before the Court via removal, upon determining that subject matter jurisdiction is lacking, the Court’s only recourse is remand. See 28 U.S.C. § 1447.
+Because the defendant is the party seeking the jurisdiction of the federal court in a removal case, it has the burden of showing that the ease is capable of being removed — i.e., that the federal jurisdictional requirements are present. See Kidd v. Southwest Airlines, Co., 891 F.2d 540, 543 (5th Cir.1990). Moreover, “[i]f any presumption exists it is that a case is outside federal jurisdiction.” Clinton v. Hueston, 308 F.2d 908, 910 (5th Cir.1962). Plaintiff brought this ease in state court seeking relief pursuant to Chapter 37 of the Texas Civil Practices and Remedies Code. It is clear that whether Plaintiffs claims are viable is a question of substantive Texas law. Although this is a close question, Defendant fails to convince this Court that subject matter jurisdiction exists in this case. Thus, Plaintiffs Motion to Remand is GRANTED.
+For the reasons set forth above, Plaintiffs Motion to Remand is GRANTED, and this ease is remanded to the 56th Judicial District Court of Galveston County, Texas, pursuant to 28 U.S.C. § 1447(c). The parties are ORDERED to bear their own taxable costs and expenses incurred herein to date. The parties are also ORDERED to file no further pleadings on these issues in this Court, including motions to reconsider or the like. Instead, the parties are instructed to seek any further relief to which they feel themselves entitled in the courts of the State of Texas, as may be appropriate in due course. See 28 U.S.C. § 1447(d) (“An order remanding a ease to the State court from which it was removed is not reviewable on appeal or otherwise .... ”); Hopkins v. Dolphin Titan Int'l, Inc., 976 F.2d 924 (5th Cir.1992) (holding that a remand of a maritime claim for lack of removal jurisdiction may not be reviewed by appeal or otherwise).
+IT IS SO ORDERED.
+. The Court expressly notes that the standard for a 12(b)(6) dismissal is stringent. A dismissal under Rule 12(b)(6) is inappropriate unless the pleadings on their face reveal beyond a doubt that the Plaintiff can prove no set of facts that would entitle it to relief. See Conley v. Gibson, 355 U.S. 41, 45-46, 78 S.Ct. 99, 102, 2 L.Ed.2d 80(1957).
+. If a plaintiff fails to state a claim upon which relief can be granted under Rule 12(b)(6), then no cognizable claim is stated and no "case or controversey” exists. Without a case or contro-versey, it obviously follows that the Court lacks subject matter jurisdiction. Although some courts hold that in such a situation dismissal is appropriate under either Rule 12(b)(6) or 12(b)(1), this Court feels Rule 12(b)(6) is more appropriate, given the spirit and intention underlying both Rules.
+. As an example, consider the situation where a plaintiff files a negligence action in slate court which is subsequently removed. For argument’s sake, presume that it is clear from the flawed pleadings that the plaintiff cannot possibly establish any elements of his negligence claim. Without subject matter jurisdiction, the Court's only action is remand. It simply cannot dismiss the claim on its merits, no matter how weak it appears to be.
+. This Court understands that Chapter 37 is very similar to the Federal Declaratory Judgment Act. Compare 28 U.S.C. §§ 2201-2202, with Tex. Civ Prac. & Rem Code Ann. § 37.001 et seq.
+. Defendant asks for a transfer of venue in the event that the Court refuses dismiss this case. Again, the first question before the Court is jurisdiction. Without jurisdiction, this Court lacks the power to transfer this case.
