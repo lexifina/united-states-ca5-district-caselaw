@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Western District of Louisiana"
+docket: "2246"
+decided: "1933-04-19"
+citations: ["3 F. Supp. 942"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CAMPBELL v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/3/cases/0942-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5768334
+cites_cases: ["40 Stat. 410", "45 Stat. 964", "46 Stat. 992"]
+---
+
+# Campbell v. United States
+
+## Majority (DAWKINS, District Judge.)
+
+DAWKINS, District Judge.
+The plaintiff in this ease sues upon a policy of e.onverted war risk insurance, alleged to bear date July 1, 1927. On December 31, 1931, he filed his claim with the Veterans’ Bureau, and it was rejected on July 12, 1932. The present suit was filed on July 20, 1932.
+The government has filed an exception of no cause of action. An agreed statement of facts has been submitted, and briefs were to be filed covering the exception. None has been filed by the plaintiff, but the attorney for the government has submitted a one-page memorandum, in which it is argued that, inasmuch as the petition alleges the claim for benefits was not filed until December 31, 1931, long after the “dead line” set by law, viz., July 3, 1931, the petition discloses no cause of action, and this court is without jurisdiction. The petition alleges that within the terms of the policy he “is at this time and has been for a period of the past four years, totally and permanently disabled.” The cause of his disability is alleged to be “tuberculosis, active and pulmonary; tuberculosis of the bowels, causing frequent hemorrhages; tuberculosis of the colon and peptic ulcer; duodenal ulcer; chronic entro-colitis; pleurisy, chronic fibrous; chronic bronchitis.”
+The petition quotes paragraph 11 of the policy as follows: “Total permanent disability as referred to herein is any impairment of mind or body which continuously renders it impossible for the disabled person to follow any substantially gainful occupation, and which is founded upon conditions which render it reasonably certain that the total disability will continue throughout the life of the disabled person. The total permanent disability benefits may relate back to a date not exceeding six months prior to receipt of due proof of such total permanent disability, and any premiums paid after receipt of due proof of total permanent disability, and within six months, shall be refunded without interest.”
+The prayer is for the payment of the installments of the policy at the rate of $57.50 per month (this being a $10,000 converted policy) “for a period beginning six months prior to December, 1931, to date of trial, or in the alternative, if the court should believe him. to be so entitled, to date of judgment.’’ The last amendment of the World War Veterans’ Act, being section 445 of title 38, US CA (Act of May 29, 1928, § 1, 45 Stat. 964, Act of July 3, 1930, § 4, 46 Stat. 992), provides : “No suit on yearly renewable term insurance shall 'be allowed under this section unless the same shall have been brought within six years after the right accrued for which the claim is made or within one year after July 3, 1930, whichever is the later date, and no suit on United States Government Life (converted) insurance shall be allowed under this section unless the same shall have been brought within six years after the right accrued for which the claim is made: Provided, That for the purposes of this section it shall be deemed that the right aeerued on the happening of the contingency on which the claim is founded. * * * ”
+It is thus seen that according to the petition the “right accrued” some four years pri- or to the filing of the claim on December 31, 1931, and under the law the period during which it was pending in the Bureau cannot be counted. Hence, it was filed well within the six years’ limitation applicable to United States government (converted) life insurance, as distinguished from the yearly renewal term insurance which was authorized by the original act in 1917 (40 Stat. 410, § 404). If the contention of the government in this ease that the claim should have been made within one year from July 3,1930, were correct, then the insured could never sue upon his converted insurance thereafter, even though he might become totally and permanently disabled subsequent to July 3, 1931. It is admitted in the stipulation filed that the premiums on the policy were paid up to and including January, 1933. The clause of the policy above quoted does not permit the insured to recover for total permanent disability beyond a period of six months preceding the filing of his claim. So that it would seem the petitioner is within his rights in demanding payment for that period only. My view is that, as long as he keeps his policy in force by the payment of premiums, he may make his claim, and, if denied, bring suit for total and permanent disability at any time, provided it is done within six years “after the right accrued,” but is limited to a recovery of not more than six months preceding the making of his claim.
+Por the reasons above stated, the exception of no cause of action is overruled. Proper decree should be presented.
