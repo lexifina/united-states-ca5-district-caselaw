@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the Northern District of Texas"
+docket: "4513"
+decided: "1933-02-13"
+citations: ["2 F. Supp. 393"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte CHANCE."]
+source_url: "https://static.case.law/f-supp/2/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4121900
+cites_cases: ["10 F. 369", "16 F. 101", "16 Wall. 366", "170 F. 613", "288 F. 752", "48 F. 643", "52 F. 930", "56 F. 422", "9 Wall. 13"]
+---
+
+# Ex parte Chance
+
+## Majority (ATWELL, District Judge.)
+
+ATWELL, District Judge.
+At the May term of the United States District Court for this district, applicant, Carl Chance, was convicted for having conspired to commit an offense against the laws of the United States, and was sentenced to two years in the penitentiary, and to pay a thousand dollar fine. Ho appealed from that conviction, and was granted bond in tlie sum of $15,000, The cause was returnable to the United States Circuit Court of Appeals in Fort Worth at the November term, 1932, but for some reason the case was not acted upon at that term. The Commercial Standard Insurance Company made his appeal bond, which stayed the judgment.
+The surety arrested Chance and turned him over to the United States marshal on the 9th of the present month, and immediately he sued out a writ of habeas corpus, which the court made returnable today.
+The marshal states in his return that Chance was brought to him by a police officer at the request of the surety, who advised the marshal that it desired to surrender the applicant and be relieved of its liability on the appeal bond; that he hold no commitment or order to hold Chance from either the Circuit Court or from this court, but was holding Mm merely at the request of the surety on the original sentence and commitment.. The surety, by way of intervention, set out all of the above facts, and, in addition, advised the court that it had a.n agreement with the applicant that it eould, at any timo, and for any reason satisfactory to itself, surrender him, and that this right particularly existed if and when he committed any additional violation of the law, and that since executing the bond for Mm that ho had been charged with murder in tho state court. That it wished to terminate its liability on the said bond, as it had a right to do under the law, save and except that it did not seek to be relieved from its liability to pay the fine, if and when the case against Mm should be affirmed by the Circuit Court of Appeals.
+The position of the applicant is, that since the bond superseded the judgment, the usual rule for the surrender of the principal does not apply.
+The Revised Statutes of the United States provide in section 1018, which was an act of August 8th, 1846, USCA § 599, vol. 18, that: “Any party charged with a criminal offense and admitted to bail, may, in vacation, be arrested by his bail, a,nd delivered to the marshal or his deputy, before any judge or other officer having power to commit for such offense; and at the request of such bail, the judge or other officer shall recommit the party so arrested to tho custody of the marshal, and indorse on the recognizance, or certified copy thereof, the discharge and exoneratur of such hail; and tho party so committed shall therefrom bo held in custody until discharged by due course of law.”
+The statute merely recites the theory of bail out of which arises the right of surrender. One against whom a charge pends is transferred, at Ms own request, from the actual custody of the sovereignty to the voluntary custody of the citizen. Theoretically, imprisonment or custody is continued. This theoretical custody may be terminated at any time at the invitation of the surety, so volunteering, provided such surety returns the person to the actual custody from which taken. In order to accomplish this return the surety may forcibly take the prisoner anywhere within the nation, and for that purpose enjoys the same right of entry and attention that belongs to peace officers seeking to make a criminal arrest armed with a warrant. The taking may be at night, or within the home o£ the prisoner, or on Sunday, or at any other moment, or from any other place. Taylor v. Taintor, 16 Wall. 366, 21 L. Ed. 287; U. S. v. Stevens (C. C.) 16 F. 101; U. S. v. Ebbs (D. C.) 10 F. 369; U. S. v. Lee (D. C.) 170 F. 613; U. S. v. Keiver (C. C.) 56 F. 422; Reese v. U. S., 9 Wall. 13, 19 L. Ed. 541; Ex parte Salinger (C. C. A.) 288 F. 752; Van Duzee v. U. S. (D. C.) 48 F. 643; Id. (C. C. A.) 52 F. 930; Atwell Fed. Criminal Law (4th Ed.) 182.
+There is another statute, old section number 943, Rev. St., section 756, USCA title 28, which authorizes bail to have the principal committed in any district in which he may be taken, and the court of such district will then certify such detention to the parent district.
+These statutes, as well as the decisions, support the thought that the bail may surrender the prisoner at any time prior, of course,' to a breach, and be relieved; that this •surrender will be acknowledged either at home or abroad.
+The fact that the case is pending in the appellate court does not seem to deprive the sureties of this right. It would be inappropriate and illegal for this court to seek to make any entry in the case which is now before the Circuit Court of Appeals. Such activity is not requested by the surety.
+The applicant desires this court to require the marshal to liberate him. This court has no jurisdiction to do that. If he is entitled to his liberty, the order must come from the Circuit Court of Appeals.
+After the case had been appealed, this court granted the prayer of the defendant to go at large rather than to remain in jail or in the penitentiary, pending determination of the ease by the upper court. The one to whom the court committed the prisoner desires to return him, and, in truth, has returned him to the same custody, viz., that of the United States marshal for this district.
+I ean see no reason why this court should require that official to turn him loose. It seems' to me that the surety is acting within its rights. It also seems to me that the marshal has no option in the matter when the surety so acts.
+An order will be drawn discharging the writ, without prejudice to the United States to assert its claim against the surety for the fine, if and when the original judgment is affirmed; and also without prejudice to the right of the applicant to seek relief from the Circuit Court of Appeals.
