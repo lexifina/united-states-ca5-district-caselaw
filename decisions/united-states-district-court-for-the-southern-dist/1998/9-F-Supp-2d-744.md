@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Southern District of Texas"
+docket: "Civil Action No. H-96-4323"
+decided: "1998-06-05"
+citations: ["9 F. Supp. 2d 744"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Larry P. FRITH and Tena Frith, Plaintiffs, v. The GUARDIAN LIFE INSURANCE COMPANY OF AMERICA, Defendant."]
+source_url: "https://static.case.law/f-supp-2d/9/cases/0744-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 531463
+cites_cases: ["121 F.3d 998", "677 S.W.2d 689", "823 S.W.2d 591"]
+---
+
+# Frith v. Guardian Life Insurance Co. of America
+
+## Majority (GILMORE, District Judge.)
+
+MEMORANDUM OPINION
+GILMORE, District Judge.
+This insurance premium case is again before the Court on a Motion to Dismiss filed by Defendant Guardian Life Insurance Company of America (“Guardian”) (Instrument No. 53). Based on the Court’s review of the record in this case, including its prior ruling, and the applicable legal authorities, the Motion to Dismiss is GRANTED.
+By prior Order entered March 31, 1998 (Instrument No. 51), Guardian’s first Motion to Dismiss was granted in part and denied as to the claims alleging fraud, fraudulent inducement, fraudulent concealment, negligent misrepresentation, and violations of the Texas Insurance Code and the Texas Deceptive Trade Practices Act. In that Order, the Court set forth the complete factual and procedural background of the case. The Court also stated the applicable standard for consideration of motions to dismiss. These matters will not be repeated here.
+The Court in the March 31 Order discussed fully the deficiencies in Plaintiffs’ Second Amended Complaint as to the fraud-based claims. Rather than dismiss the claims, however, the Court permitted Plaintiffs to file a Third Amended Complaint. The Court specifically noted that Plaintiffs failed to “state the time, place, name of the agent, or content of the agent’s purported fraudulent statements and misrepresentations as required by Rule 9(b) [of the Federal Rules of Civil Procedure].” Order, at 17. The Court further advised Plaintiffs that they had not alleged “how the statements and explanations allegedly made by Guardian’s agent were fraudulent or deceptive.” Id.
+Plaintiffs filed their Third Amended Complaint, stating the name of the agent and the dates and places Plaintiffs met with the agent. Plaintiffs failed again, however, to allege the content of the agent’s purported statements and representations and an explanation of how the alleged statements were fraudulent or deceptive. Instead, Plaintiffs rely on the cost illustrations which were provided by Guardian through the agent. As previously noted by the Court, the cost illustrations contain clear and unambiguous language that “[fjigures depending on dividends are neither estimated or guaranteed, but are based on ... the dividend scale [for the specified year]” and that “[a]ctual future dividends may be higher or lower than those illustrated depending on the Company’s actual future experience.” Order, at 10. Based on this clear language in the cost illustrations, the Court previously held that “nothing in the illustrations or the policy summaries stated that Plaintiffs would no longer have to make premium payments after their eighth payment or that the premium payments would ‘vanish’ at a specified time.” Id. at 10-11.
+Plaintiffs allege that the cost illustrations and the agent presenting the illustrations did not disclose certain information. Under Texas law, an insurance agent has no duty to explain policy terms, and the insured has a duty to read his insurance policy and is bound by the policy terms even if they were not fully explained. Heritage Manor of Blaylock v. Petersson, 677 S.W.2d 689, 691 (Tex.App.- Dallas 1984, writ refd n.r.e.). Moreover, “Texas law recognizes a duty to disclose only where a fiduciary or confidential relationship exists.” Bay Colony, Ltd. v. Trendmaker, Inc., 121 F.3d 998, 1004 (5th Cir.1997). The Court held in its March 31 Order that Guardian did not owe Plaintiffs the lesser duty of good faith and fair dealing. Order, at 11-13. See also Crim Truck & Tractor Co. v. Navistar International Transportation Corp., 823 S.W.2d 591, 594 (Tex.1992) (duty of good faith and fair dealing “does not encompass the often more onerous burden ... attributed to a fiduciary duty”). Plaintiffs cite cases which hold that a person who makes a partial disclosure has a duty to tell the whole truth. While this general legal principle is well-established, the factual allegations in Plaintiffs’ Third Amended Complaint do not support its application in this case. As noted by the Court in its March 31 Order and in this Memorandum Opinion, the cost illustrations themselves are clear, unambiguous, and do not represent that only eight payments would be required or that the premium payments would “vanish.”
+Based on the foregoing and on the discussion contained in the March 31 Order, the Court finds that Plaintiffs again fail to allege representations by the agent and rely instead on the cost illustrations provided by Guardian through the agent. The cost illustrations, however, are clear, unambiguous, and fully represent that they are not guarantees and that actual future dividends may be lower than those reflected in the illustrations. The Court also concludes that Plaintiffs fail to allege facts from which a duty to disclose would arise. Accordingly, it is hereby
+ORDERED that Defendant’s Motion to Dismiss (Instrument No. 53) is GRANTED. A final order of dismissal will be entered separately.
