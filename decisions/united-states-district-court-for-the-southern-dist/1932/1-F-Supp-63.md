@@ -1,0 +1,41 @@
+---
+court: "United States District Court for the Southern District of Texas"
+docket: "57"
+decided: "1932-08-03"
+citations: ["1 F. Supp. 63"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARBICH et al. v. HAMILTON-BROWN SHOE CO. et al."]
+source_url: "https://static.case.law/f-supp/1/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4133346
+cites_cases: ["15 L. Ed. 452", "18 How. 407", "205 U. S. 532", "227 U. S. 226", "234 U. S. 582", "27 S. Ct. 595", "33 S. Ct. 245", "34 S. Ct. 944", "36 F.(2d) 783", "51 L. Ed. 917", "57 L. Ed. 489", "58 L. Ed. 1481"]
+---
+
+# Harbich v. Hamilton-Brown Shoe Co.
+
+## Majority (KENNERLY, District Judge.)
+
+KENNERLY, District Judge.
+July 17,1931, plaintiffs, alleged to be citizens of Texas, sued defendants (tbe Hamilton-Brown Shoe Company being alleged to be a “foreign corporation,” and Crow being alleged to be a resident of Texas) in the district court of Victoria county, Tex.,_ for damages for alleged personal injuries, etc., arising out of an alleged collision between an automobile owned and driven by plaintiffs, or one of them, and an automobile alleged to be owned by defendant shoe company, and driven by defendant Crow. It is alleged that such injuries were caused by the negligence of defendants.
+January 5, 1932, a citation such) as is required by Texas law (articles 2021 and 2022, Texas Revised Civil Statutes 1925) was issued, and placed in the hands of the sheriff of Victoria county. Such citation commanded such officer to “summon the Hamilton-Brown Shoe Company, a corporation, upon whom service may be had by serving Dan F. Smith, a salesman for said defendant now residing in Victoria County, Texas, to be and appear before the Honorable District Court of Victoria! County, Texas, at the next regular term thereof,” etc.
+The sheriff’s return shows that he executed said process on February 26,1932, at 8:45 o’clock a. m., “by delivering to the Defendant by delivering a true copy of this citation to Dan F. Smith, a salesman for the Hamilton-Brown Shoe Company, the within named defendant, in person, a true copy of this writ, at Victoria, in the County of Victoria, and State of Texas.”
+There is no record of service of process on the defendant George H. Crow.
+Seasonably, the defendant shoe company, without waiving its right to question the sufficiency of service upon it, and without making'any appearance for any purpose other than presenting a petition for* removal, filed in the district court of Victoria county its petition and bond for removal to, and the ease has been removed to, this court.
+June 13, 1932, the defendant shoe eompany, appearing specially for the sole and only purpose of objecting to the jurisdiction of this court and to such service of process, filed its plea to the jurisdiction and motion to dismiss, etc. June 18, 1932, plaintiffs replied thereto. This is a hearing thereon under District Court Rule 25. The issues of fact involved are presented by affidavits under District Court Rule 25d.
+The contention of defendant shoe company is that it is a corporation organized under the laws of Missouri, and doing business in the state of Missouri, and not doing business in Texas in such manner as to give the Texas courts jurisdiction over it. It is also contended that Dan Smith, upon whom service of citation was had, is not an agent of defendant upon whom citation can be lawfully served, under the laws of Texas.
+Omitting formal parts, the affidavit of Dan Smith supporting the plea and motion of defendant shoe company is as follows: “That he is now and was at the time service was attempted to be had on the Defendant, Hamilton-Brown Shoe Company, by serving him as traveling salesman, a soliciting agent for Hamilton-Brown Shoe Company, and was and still is paid a monthly salary for his services as such soliciting agent and his duties and authorities were and still are to endeavor to have merchants place orders with Hamilton-Brown Shoe Company in interstate commerce, subject to acceptance by Hamilton-Brown Shoe Company at its home office in St. Louis, Missouri. That he has no authority on behalf of Hamilton-Brown Shoe Company to sell merchandise, nor make contracts, or otherwise bind Hamilton-Brown Shoe Company, but is and was solely a soliciting agent.” '
+Plaintiff meets this by the affidavit of one George Filley, which, omitting formal parts, is as follows:
+“My name is George Filley. I am engaged in a general mercantile business in Victoria, Texas, and have been engaged in that business for a great many years at Victoria, Texas.
+“I handle shoes in connection with my mercantile business at Victoria, Texas.
+“Among other brands of shoes I carry in my mercantile stock shoes known as the Hamilton-Brown shoes which are purchased by me from drummers or sales agents from the Hamilton-Brown Shoe Company. I buy these shoes in this manner: The sales agent of the Hamilton-Brown Shoe Company comes to my store and displays his samples of shoes. These shoes are contained in sample eases and the sales agent always has more than one sample case filled with shoes. After selecting the line of shoes that I desire for my trade, the sales agent then quotes me prices on these shoes and, if the prices are such that I conclude that I can use the shoes profitably, I aeeept his offer as quoted and direet him to ship me the shoes agreed upon, telling him the sizes that I desire for my trade and he transmits this order to the Hamilton-Brown Shoe Company and it delivers me the shoes in accordance with the trade I have made with its drummer or salesman.
+“These travelling agents or drummers come to my store on an average of about once every month or once every six weeks and I usually buy shoes from the salesman on each trip when he comes to my store.
+“I have been dealing with Hamilton-Brown Shoe Company along the above lines for a great many years.
+“I know Dan Smith who is a travelling salesman for the Hamilton-Brown Shoe Company. I have been buying Hamilton-Brown shoes from him along the lines hereinabove set out for the past year and a half or two years.”
+1. The first question is whether defendant shoe company is doing business in Texas in a manner which permits it to be sued in Texas. In referring to a similar question, the Supreme Court of the United States, in St. Louis Southwestern Railway Co. v. Alexander, 227 U. S. 226, 33 S. Ct. 245, 247, 57 L. Ed. 489, Ann. Cas. 1915B, 77, uses this language: “This court has decided each case of this character upon the facts brought before it, and has laid down no all-embracing rule by which it may be determined what constitutes the doing of business by a foreign corporation in such manner as to subject it to a given jurisdiction. In a general way it may be said that the bus’ness must be such-in character and extent as to warrant the inference that the corporation has subjected itself to the jurisdiction and laws of the district in which it is served, and in which it is bound to appear when a proper agent has been served with process. Lafayette Ins. Co. v. French, 18 How. 407, 15 L. Ed. 452; Green v. Chicago, B. & Q. R. Co., 205 U. S. 532, 51 L. Ed. 917, 27 S. Ct. 595.”
+Applying this rule to the facts disclosed by such affidavits, I conclude that the defendant shoe company is doing business in Texas in such manner as to give the district court of Victoria county jurisdiction over it, in this case, and that this court has jurisdiction.
+So many of the controlling cases are set forth in Creager v. P. F. Collier & Son Co. (D. C.) 36 F.(2d) 783, 786, that I content myself with referring to them there.
+2. The remaining question is whether a proper agent of defendant shoe company has been served. St. Louis Southwestern Railway Company v. Alexander, supra. This is tested by the Texas statute. St. Louis Southwestern Railway Company v. Alexander, supra; International Harvester Co. v. Kentucky, 234 U. S. 582, 34 S. Ct. 944, 58 L. Ed. 1481.
+There seems to be no escape from the conclusion that the service on Dan Smith is sufficient under article 2031, Texas Revised Civil Statutes of 1925.
+Let an order be prepared and presented, denying and overruling defendant shoe company’s plea and motion.
