@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Western District of Louisiana"
+docket: "99"
+decided: "1939-08-07"
+citations: ["29 F. Supp. 32"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST TRUST CO. OF PHILADELPHIA v. ATLAS PIPELINE CORPORATION."]
+source_url: "https://static.case.law/f-supp/29/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4195741
+---
+
+# First Trust Co. v. Atlas Pipeline Corp.
+
+## Majority (DAWKINS, District Judge.)
+
+DAWKINS, District Judge.
+Upon the application of the First Trust Company of Philadelphia, Trustee, under the first bond mortgage, on May 26, 1939, a temporary receiver for all property and effects of the Atlas Pipeline Corporation was appointed, and upon contradictory hearing held later, the appointment was made permanent.
+The property has been administered and the business carried on as a going concern since that time. Subsequently, the said Trustee applied to have the receiver sell the entire assets as a going concern, publication was made and notice sent out to all creditors, and on July 26, 1939, hearing was had, at which, informal or oral obj ections. to granting the order' of sale and for an adjournment or postponement of thirty days was made in open court by counsel representing some of the second mortgage creditors, as will appear from the stenographic record of the hearing. At the same time, counsel for the Atlas Pipeline Corporation excepted to the procedure, on the ground that, under the law of Louisiana, the First Trust Company, Trustee, could foreclose its mortgage in only one of two ways: (1) By executory process (presenting the original obligations or bonds, together with certified copy of the mortgage and obtaining an order for executory process), or (2) by first obtaining a judgment after trial on the merits of the claim and then executing a writ of fi. fa.; and that no such demand had been made by the Trustee, nor had the procedure necessary to obtain judgment by ordinary process been used, but applicant was seeking to proceed by summary rule, for which there was no authority in law.
+The Court declined to grant the postponement, allowed the proof to be offered by the applicant in support of its petition for the order and at the conclusion, granted attorneys who had appeared for the second mortgage bond holders twenty days or until August 15 to continue and complete the arrangements, which were described in the oral appearance, for an adjustment of matters between the two groups, that is, first and second mortgage bond holders. The exception of the Atlas Pipeline Corporation was taken under advisement.
+At the hearing the Court expressed the view that the exception of the Pipeline Corporation might have merit and suggested authorities be furnished. This has been done by- counsel for the First Trust Company of Philadelphia, but no memorandum has been submitted for the Pipeline Corporation and inasmuch as the delays are short,, it is deemed proper to dispose of the matter.
+The property and affairs of the Atlas Pipeline Corporation are under the control of this Court through a general receiver, and any bona fide creditor whose interest might warrant, could apply for the sale of the property. At the hearing on such application, the Court might, as the circumstances justified, order a sale, and refer to a master the liquidating or establishing claims to the proceeds. On the other hand, it could permit the proving of such claims after sale. No particular formality is required in filing such claims, except that reasonable opportunities should be given to everyone at interest, including the debtor, to test their correctness as well as validity of any alleged lien or priority.
+However, in the present case, I think it well, at least in so far as the first and second mortgage bond holders are concerned, that the correct amounts due and outstanding should be established judicially, either upon stipulations, or on August 15, when the delays granted have expired, if an amicable adjustment between these two groups has not been reached in the meantime. This, I feel is necessary for the reason that all who own such securities should be permitted, at the sale after paying in cash such sums as the Court shall deter-mine, to use these bonds in discharging the purchase price, rather than having to put up the full amount of the bid in cash. Of course, if the highest bid should be less than the gross amount due upon the first mortgage indebtedness, after deducting the deposit required, there could be no basis for the using of second mortgage bonds, but if such bids are sufficient to discharge the senior lien, the right to use second lien obligations would come into play.
+The exception of the Atlas Pipeline Corporation will be over-ruled and the Receiver is directed to notify the holders and representatives of both first and second mortgage bond holders that on August 15, if amicable disposition of this matter is not had in the meantime, the Court will determine the amounts due or outstanding under the second bond mortgage issues, as well as the sum necessary to be deposited in cash in bidding upon said properties.
