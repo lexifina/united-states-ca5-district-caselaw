@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the District of Louisiana"
+decided: "1810-10"
+citations: ["1 Mart. (o.s.) 87"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LIVINGSTON vs. D’ORGENOY."]
+source_url: "https://static.case.law/mart-os/1/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6685267
+---
+
+# Livingston v. D'Orgenoy
+
+## Majority (Hall, District Judge.)
+
+Hall, District Judge.
+It appears that the defendant is not in the least interested in the decision of this case: no damages are to be recovered of him, because none are prayed for: he is not to be deprived of possession, because he never had any; and if ever he had, he has since ceased to hold it.
+The circumstance of Paillette being the plaintiff’s agent and the defendant’s counsel, at first blush might excite suspicion: but when it appears he has always been of counsel for the defendant, in his causes, collusion cannot be inferred from it.
+Although there is no direct evidence of collusion between the parties, yet it is certain a kind of understanding exists between them. The impression made on the defendant's mind, clearly was, that he was totally hors de combat, that no damages were to be recovered of him, and therefore he was totally uninterested, and became quite indifferent as to the issue of the suit: for, he has told us he had neither possession nor property, and he should have averred so in the pleadings. I do not think that his refusal to blend his interest with that of the corporation, ought to have any influence in the decision of the motion.
+It is clear that the United States claim the premises. They have dispossessed the plaintiff, and his object now is to regain the possession. If any one is in possesion, the United States are; and this fact is sworn to by Mather.
+The interests of the United States alone are at stake. The defendant cannot be expected to defend them. It is immaterial to him what opinion the court pronounces on the legality of the President’s orders, or whether it adjudges the possession of the batture to the plaintiff or not. There is nothing adverse in the case.
+Courts of justice are to decide on real contests, they are never to be used as instruments to work injustice, wound the feelings or affect the interest of others, through the intervention of fictitious or uninterested parties.
+The defendant can only be considered as a feigned ejector. It is a standing rule in actions of ejectments that no plaintiff shall proceed to recover the land without giving the tenant in possession a-declaration and making him a defendant. Otherwise the court would be instrumental in doing an injury to a third person; because a declaration might be served on a stranger, a feint defence made and a verdict, judgment and execution obtained, without the tenant having any notice of it. This would be the case, if the court w ere to proceed in this suit. The defendant is no longer an officer of the United States, it would be wrong to decide on their rights in a suit against him.
+If the United States, who claim the premises cannot be -made defendants, it becomes their dignity to establish a tribunal in which the controversy may be determined. It is much regretted, that it has not been already done.
+Proceedings are not often staid at the instance of a third party; but the court certainly possess the power to stay them. In the case cited from Cowper, lord Mansfield said, “ If the Chevalier “ d’Eon had applied to the court, as a person “whose feelings were sought to be wounded in “ the suit, and prayed that the suit might be stop-“ped, the court would have instantly done it”
+Proceedings stayed.
