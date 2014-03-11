@@ -1,0 +1,36 @@
+---
+court: "United States District Court for the Southern District of Texas"
+docket: "Civil Action No. 2:14-CV-12"
+decided: "2014-03-11"
+citations: ["3 F. Supp. 3d 587"]
+reporter: "f-supp-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Irene ESCALANTE, et al., Plaintiffs, v. DEERE & COMPANY; aka John Deere Company, et al., Defendants."]
+source_url: "https://static.case.law/f-supp-3d/3/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4137108
+cites_cases: ["276 F.3d 720", "28 U.S.C. § 1446", "313 U.S. 100", "326 F.3d 644", "327 F.3d 423", "385 F.3d 568", "416 F.3d 382", "436 F.3d 529", "481 F.3d 234", "550 U.S. 544", "989 F.2d 812"]
+---
+
+# Escalante v. Deere & Co.
+
+## Majority (NELVA GONZALES RAMOS, District Judge.)
+
+ORDER
+NELVA GONZALES RAMOS, District Judge.
+This is a personal injury, product liability case regarding a shredder manufactured and marketed by Defendant Deere & Company a/k/a John Deere Company (John Deere). John Deere removed the action to this Court on the basis of diversity jurisdiction, alleging that non-diverse Defendants Gulf Tractor Company (GTC) and South Texas Implement Company (STI) are improperly joined. Before the Court is Plaintiffs’ Motion to Remand (D.E. 5). For the reasons set out below, the Motion is DENIED.
+Plaintiffs have pled that they brought this action pursuant to Texas state law regarding product liability and negligence. D.E. 1, p. 24. They have alleged that STI and/or GTC marketed and sold the shredder. Id., p. 23. More specifically,
+Defendant STI and/or GTC misrepresented and/or failed to disclose or provide proper instructions for the lifting of the shredder in question for the foreseeable situation giving rise to this accident and cause which separately, independently or in combination with the above defects amounts to negligence and actual misrepresentation which was the proximate cause of the accident in question. In addition, Defendant STI and/or GTC are liable for the products defects above by JOHN DEERE as a retailer of such equipment.
+D.E. 1, p. 24. According to John Deere, Texas product liability law eliminates this claim against STI and GTC pursuant to Tex. Crv. PRAC. & Rem.Code § 82.001 et seq. Plaintiffs’ Motion to Remand (1) defends their joinder of STI and GTC under Texas law, suggesting that John Deere has not met its very high burden of proof for fraudulent joinder; (2) alleges that John Deere waived its right to remove by seeking relief in state court; and (3) claims that John Deere’s removal is proeedurally improper for failure to obtain the consent of GTC and STI.
+1. Whether Plaintiffs state a viable claim against the non-diverse Defendants.
+On a motion to remand, “[t]he removing party bears the burden of showing that federal jurisdiction exists and that removal was proper.” Manguno v. Prudential Prop. & Cas. Ins. Co., 276 F.3d 720, 723 (5th Cir.2002). “Any ambiguities are construed against removal because the removal statute should be strictly construed in favor of remand.” Id. The strict construction rule arises because of “significant federalism concerns.” See generally, Shamrock Oil & Gas Corp. v. Sheets, 313 U.S. 100, 108-09, 61 S.Ct. 868, 85 L.Ed. 1214 (1941).
+“The party seeking removal bears a heavy burden of proving that the joinder'of the in-state party was improper.” Smallwood v. Illinois Cent. R.R. Co., 385 F.3d 568, 574 (5th Cir.2004) (en bane). The removing party proves improper join-der by demonstrating: (1) actual fraud in the pleading of jurisdictional facts; or (2) the inability of the plaintiff to establish a cause of action against the non-diverse defendant in state court. See Crockett v. R.J. Reynolds Tobacco Co., 436 F.3d 529, 532 (5th Cir.2006) (citing Travis v. Irby, 326 F.3d 644, 646-47 (5th Cir.2003)); see also Boone v. Citigroup, Inc., 416 F.3d 382, 388 (5th Cir.2005). Only the second method is at issue here.
+Chapter 82 of the Texas Civil Practice and Remedies Code (Product Liability Act) is written broadly to include any claim for personal injury caused by a defective product, whether the claim is based on strict liability, negligence, or misrepresentation. See § 82.001(2). According to Plaintiffs’ pleading, GTC and STI are not manufacturers. They are sued only as retailers. Under § 82.003 of the Product Liability Act, a seller that did not manufacture the product is only liable upon proof of one or more of seven distinct bases for liability. Plaintiffs’ existing pleading is insufficient to satisfy the requirements for any of those seven provisions.
+The Court understands that the Plaintiffs’ pleading was filed under the liberal “notice pleading” standards of Texas procedure. However, Plaintiffs have not alleged even a formulaic recital of all elements of any one sub-part of § 82.003(a). Under federal procedure, specific “fact pleading” is required. Fed. R. Crv. P. 8(a); Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 127 S.Ct. 1955, 1966, 167 L.Ed.2d 929 (2007). Plaintiffs’ Motion to Remand fails to recite any allegations that, if included in an amended complaint, would withstand the John Deere attack on their joinder of GTC and STI. While the removal and remand procedure does not require eviden-tiary proof of a claim against the allegedly fraudulently joined parties, it does require that the Plaintiffs show that they have appropriate allegations of a viable.cause of action by which they may prevail in their claims against the non-diverse Defendants. Plaintiffs’ pleading and motion do not pass that test.
+2. Whether John Deere waived its right to remove.
+Plaintiffs challenge the removal for the reason that John Deere sought and obtained, through an agreement under Tex.R. Civ. P. 11, an extension of its deadline to answer and appear in state court. D.E. 5, p. 3. Plaintiffs represent this as an attempt to seek a disposition on the merits of the case. However, such minor procedural matters do not constitute a clear and unequivocal waiver of removal and submission of the merits of the case to the state court as required under Fifth Circuit treatment of the issue. See Tedford v. Warner-Lambert Co., 327 F.3d 423, 427 (5th Cir.2003) (active participation in state court, short of seeking adjudication on the merits, is an insufficient basis on which to find a waiver of removal). The extension of time to answer was not a submission to the state court of any dispositive issue. John Deere did not waive its right to remove the case to this Court.
+3. Whether John Deere failed to obtain necessary consents.
+Plaintiffs complain that, under 28 U.S.C. § 1446(b)(2)(A), John Deere was required to obtain GTC and STI’s joinder in, or consent to, the removal. Because those consents were not filed, Plaintiffs argue that the removal is proeedurally improper. It is clear that, under Fifth Circuit precedent, such consents are not required if the removing defendant can show that the non-consenting defendants were improperly joined. E.g., Rico v. Flores, 481 F.3d 234, 239 (5th Cir.2007); Jernigan v. Ashland Oil Inc., 989 F.2d 812, 815 (5th Cir.1993). This Court has found that GTC and STI were improperly joined. Consequently, their consent is not required.
+CONCLUSION
+For the reasons set out above, the Motion to Remand (D.E. 5) is DENIED.
